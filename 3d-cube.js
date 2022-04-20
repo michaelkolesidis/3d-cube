@@ -7,7 +7,7 @@ let thetaZ = 0;
 let rotationSpeed = 0.01;
 
 // Cube size
-let t = 100;
+let t = 120;
 
 function setup() {
   createCanvas(
