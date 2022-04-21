@@ -2,6 +2,10 @@
   <img src="./icons/icon-192x192.png">
   <h1>3D Cube</h1>
   
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/ec161aec-7226-4c20-a967-b48d1ae96cba/deploy-status)](https://app.netlify.com/sites/3d-cubejs/deploys)
+
+
+
   <h3>A 3D cube rotating according to mouse movement. </h3>
 </div>
   
@@ -14,9 +18,9 @@
 
 ## Description
 
-<p>A colorful three-dimensional cube that rotates to x-axis, y-axis, and z-axis according to the movement of  the mouse inside the window. It consists of triagle fans and it is created dynamically on page load, according to the dimensions of the window. It is housed in a simple HTML page, with some CSS.</p>
+<p>A colorful three-dimensional cube that rotates to x-axis, y-axis, and z-axis according to the movement of  the mouse inside the window. It is created dynamically on page load, according to window dimensions. It is housed in a simple HTML page, with some essential CSS.</p>
 
-<p>Originally, I created it using <a href="https://processing.org/">Processing</a>, and then I ported to the web using Processing's JavaScript sibling, p5.js.</p>
+<p>Originally, I created it using <a href="https://processing.org/">Processing</a>, and then I ported it to the web using Processing's JavaScript sibling, p5.js.</p>
 
 
 ## Screenshot
