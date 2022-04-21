@@ -2,11 +2,10 @@
   <img src="./icons/icon-192x192.png">
   <h1>3D Cube</h1>
   
-  [![Netlify Status](https://api.netlify.com/api/v1/badges/ec161aec-7226-4c20-a967-b48d1ae96cba/deploy-status)](https://app.netlify.com/sites/3d-cubejs/deploys)
-
-
-
   <h3>A 3D cube rotating according to mouse movement. </h3>
+
+  [![Netlify Status](https://api.netlify.com/api/v1/badges/ec161aec-7226-4c20-a967-b48d1ae96cba/deploy-status)](https://app.netlify.com/sites/3d-cubejs/deploys)
+  
 </div>
   
 
