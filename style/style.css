@@ -3,4 +3,28 @@ body {
   padding: 0;
   margin: 0;
   background: black;
+  font-family: sans-serif;
+}
+
+footer {
+  color: white;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+}
+
+p {
+  color: white;
+  margin: 1rem;
+  font-size: 1.2rem;
+  font-weight: 500;
+}
+
+a,
+a:visited {
+  color: white;
+}
+
+#heart {
+  font-size: 1.6rem;
 }
