@@ -11,7 +11,7 @@
 
 ## Technologies Used
 
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="300px"/>
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="100px"/>
 
 
 [//]: # (Free Software)
