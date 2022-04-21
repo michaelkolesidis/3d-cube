@@ -11,7 +11,7 @@
 
 ## Technologies Used
 
-<a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="100px"/></a>
+<a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
 
 
 [//]: # (Free Software)
