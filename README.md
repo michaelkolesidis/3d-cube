@@ -16,10 +16,6 @@
 <a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
 
 
-## Demo
-<img src="./screenshots/demo.gif">
-
-
 
 ## Description
 
@@ -28,11 +24,21 @@
 <p>Originally, I created it using <a href="https://processing.org/">Processing</a>, and then I ported it to the web using Processing's JavaScript sibling, p5.js.</p>
 
 
+
+
+## Demo
+<img src="./screenshots/demo.gif">
+
+
+
 ## Screenshot
 <img src="./screenshots/screenshot.png">
 
 <br>
 <br>
+
+
+
 
 [//]: # (Free Software)
 <div align="center">
