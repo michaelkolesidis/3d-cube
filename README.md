@@ -6,18 +6,18 @@
 </div>
   
 
-<div align="center">
-  <h4>Technologies Used<h4>
+
+  <h4>Technologies Used:<h4>
 
   <a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
 
-</div>
+
 
 ## Description
 
-<p>A colorful three-dimensional cube that rotates to x-axis, y-axis, and z-axis according to the movement of  the mouse inside the window. It consists of triagle fans and it is created dynamically on page load, according to the dimensions of the window. It is housed in a simple HTML page, with some plain CSS.</p>
+<p>A colorful three-dimensional cube that rotates to x-axis, y-axis, and z-axis according to the movement of  the mouse inside the window. It consists of triagle fans and it is created dynamically on page load, according to the dimensions of the window. It is housed in a simple HTML page, with some CSS.</p>
 
-<p>Originally, I created it using Processing, and then I ported to the web using Processing's JavaScript sibling, p5.js.</p>
+<p>Originally, I created it using <a href="https://processing.org/">Processing</a>, and then I ported to the web using Processing's JavaScript sibling, p5.js.</p>
 
 
 ## Screenshot
