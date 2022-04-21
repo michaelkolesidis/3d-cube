@@ -14,6 +14,10 @@
 
 </div>
 
+<p>A colorful three-dimensional cube that rotates to x-axis, y-axis, and z-axis according to the movement of  the mouse inside the window. It consists of triagle fans and it is created dynamically on page load, according to the dimensions of the window. It is housed in a simple HTML page, with some plain CSS.</p>
+
+<p>Originally, I created it using Processing, and then I ported to the web using Processing's JavaScript sibling, p5.js.</p>
+
 
 <br>
 <br>
