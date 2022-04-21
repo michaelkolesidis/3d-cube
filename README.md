@@ -27,7 +27,7 @@
 
 
 ## Demo
-<img src="./screenshots/demo.gif">
+<img src="./screenshots/demo-01.gif">
 
 
 
