@@ -9,9 +9,9 @@
 <br>
 <br>
 
-### Technologies Used
+## Technologies Used
 
-<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" />
+<img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="300px"/>
 
 
 [//]: # (Free Software)
