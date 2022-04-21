@@ -6,18 +6,17 @@
   <h3>A 3D cube rotating according to mouse movement. </h3>
 </div>
   
-<br>
-<br>
-
 
 <div align="center">
-<h4>Technologies Used<h4>
+  <h4>Technologies Used<h4>
 
-<a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
-
+  <a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
 
 </div>
 
+
+<br>
+<br>
 
 [//]: # (Free Software)
 <div align="center">
