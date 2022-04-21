@@ -7,9 +7,8 @@
   
 
 
-  <h4>Technologies Used:<h4>
-
-  <a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
+## Technologies Used
+<a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
 
 
 
