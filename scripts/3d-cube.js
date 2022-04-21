@@ -6,8 +6,7 @@ let thetaZ = 0;
 // Rotation speed
 let rotationSpeed = 0.01;
 
-// Cube size
-let t = 120;
+
 
 function setup() {
   createCanvas(
@@ -17,6 +16,10 @@ function setup() {
   );
   smooth(8);
 }
+
+// Cube size
+let t = window.innerHeight > window.innerWidth ? window.innerWidth / 10 : window.innerHeight / 10 ;
+
 
 function draw() {
   translate(-width / 2, -height / 2);
