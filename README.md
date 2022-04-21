@@ -4,8 +4,10 @@
   
   <h3>A 3D cube rotating according to mouse movement. </h3>
 
+  <a href="https://3d-cubejs.netlify.app/"><h3>Try me!</h3></a>
+
   [![Netlify Status](https://api.netlify.com/api/v1/badges/ec161aec-7226-4c20-a967-b48d1ae96cba/deploy-status)](https://app.netlify.com/sites/3d-cubejs/deploys)
-  
+
 </div>
   
 
