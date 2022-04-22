@@ -13,6 +13,7 @@
   
 
 ## Technologies Used
+
 <a href="https://p5js.org/"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/p5js/p5js.svg" height="50px"/></a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://github.com/michaelkolesidis/tech-icons/blob/main/icons/javascript/javascript-original.svg" height="50px" /></a>
@@ -40,12 +41,16 @@ Licensed under the [GNU General Public License v3.0](https://github.com/michaelk
 
 
 ## Demo
+
 <img src="./screenshots/demo-01.gif">
 
 
 
 ## Screenshot
+
 <img src="./screenshots/screenshot.png">
+
+
 
 <br>
 <br>
