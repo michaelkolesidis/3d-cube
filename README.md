@@ -33,13 +33,6 @@
 
 
 
-## License
-
-Copyright (c) 2022 Michael Kolesidis<br>
-Licensed under the [GNU General Public License v3.0](https://github.com/michaelkolesidis/webproject-script/blob/main/LICENSE).
-
-
-
 ## Demo
 
 <img src="./screenshots/demo-01.gif">
@@ -49,6 +42,13 @@ Licensed under the [GNU General Public License v3.0](https://github.com/michaelk
 ## Screenshot
 
 <img src="./screenshots/screenshot.png">
+
+
+
+## License
+
+Copyright (c) 2022 Michael Kolesidis<br>
+Licensed under the [GNU General Public License v3.0](https://github.com/michaelkolesidis/webproject-script/blob/main/LICENSE).
 
 
 
