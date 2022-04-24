@@ -10,15 +10,15 @@ let rotationSpeed = 0.01;
 
 function setup() {
   createCanvas(
-    windowWidth - (0.4 * windowWidth) / 100,
-    windowHeight - (0.4 * windowHeight) / 100,
+    windowWidth - (0.8 * windowWidth) / 100,
+    windowHeight - (0.8 * windowHeight) / 100,
     WEBGL
   );
   smooth(8);
 }
 
 // Cube size
-let t = window.innerHeight > window.innerWidth ? window.innerWidth / 10 : window.innerHeight / 10 ;
+let t = window.innerHeight > window.innerWidth ? window.innerWidth / 9 : window.innerHeight / 9 ;
 
 
 function draw() {
