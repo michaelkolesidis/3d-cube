@@ -10,7 +10,7 @@ let rotationSpeed = 0.01;
 
 function setup() {
   createCanvas(
-    windowWidth - (0.8 * windowWidth) / 100,
+    windowWidth - (0.8 * windowWidth) / 100, // originally 0.4
     windowHeight - (0.8 * windowHeight) / 100,
     WEBGL
   );
@@ -18,7 +18,7 @@ function setup() {
 }
 
 // Cube size
-let t = window.innerHeight > window.innerWidth ? window.innerWidth / 9.5 : window.innerHeight / 9.5 ;
+let t = window.innerHeight > window.innerWidth ? window.innerWidth / 9.5 : window.innerHeight / 9.5 ; // originally 10
 
 
 function draw() {
