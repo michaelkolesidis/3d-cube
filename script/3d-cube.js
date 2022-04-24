@@ -18,7 +18,7 @@ function setup() {
 }
 
 // Cube size
-let t = window.innerHeight > window.innerWidth ? window.innerWidth / 9 : window.innerHeight / 9 ;
+let t = window.innerHeight > window.innerWidth ? window.innerWidth / 9.5 : window.innerHeight / 9.5 ;
 
 
 function draw() {
