@@ -46,6 +46,7 @@
 
 ## Related Projects
 
+- [3D Teddy Bear](https://github.com/michaelkolesidis/3d-teddy-bear)
 - [Circle Random Lines](https://github.com/michaelkolesidis/circle-random-lines)
 - [3D Cube (Processing)](https://github.com/michaelkolesidis/3d-cube-processing)
 
