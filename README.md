@@ -35,7 +35,7 @@
 
 ## Demo
 
-<img src="./screenshots/demo-01.gif">
+<img src="./screenshots/3d-cube.gif">
 
 
 
