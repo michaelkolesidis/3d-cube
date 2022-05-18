@@ -87,3 +87,11 @@ function draw() {
 function windowResized() {
   resizeCanvas(window.innerWidth, window.innerHeight);
 }
+
+window.addEventListener("dblclick", () => {
+  if (!document.fullscreenElement) {
+    canvas.requestFullscreen();
+  } else {
+    document.exitFullscreen();
+  }
+});
