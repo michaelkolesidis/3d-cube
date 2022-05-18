@@ -6,20 +6,16 @@ let thetaZ = 0;
 // Rotation speed
 let rotationSpeed = 0.01;
 
-
-
 function setup() {
-  createCanvas(
-    windowWidth - (0.8 * windowWidth) / 100, // originally 0.4
-    windowHeight - (0.8 * windowHeight) / 100,
-    WEBGL
-  );
+  createCanvas(windowWidth, windowHeight, WEBGL);
   smooth(8);
 }
 
 // Cube size
-let t = window.innerHeight > window.innerWidth ? window.innerWidth / 9.5 : window.innerHeight / 9.5 ; // originally 10
-
+let t =
+  window.innerHeight > window.innerWidth
+    ? window.innerWidth / 9.5
+    : window.innerHeight / 9.5; // originally 10
 
 function draw() {
   translate(-width / 2, -height / 2);
