@@ -29,7 +29,7 @@
 
 <p>A colorful three-dimensional cube that rotates to x-axis, y-axis, and z-axis according to the movement of  the mouse inside the window. It is created dynamically on page load, according to window dimensions. It is housed in a simple HTML page, with some essential CSS.</p>
 
-<p>Double-click anywhete to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.
+<p>Double-click anywhere to enter fullscreen mode, double-click again (or press ESC) to leave fullscreen mode.
 
 <p>Originally, I created it using <a href="https://processing.org/">Processing</a>, and then I ported it to the web using Processing's JavaScript sibling, p5.js.</p>
 
