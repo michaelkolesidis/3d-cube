@@ -83,3 +83,7 @@ function draw() {
   thetaY = map(mouseY, 0, height, 0, TWO_PI);
   thetaZ = map((mouseX + mouseY) / 2, 0, (width + height) / 2, 0, TWO_PI);
 }
+
+function windowResized() {
+  resizeCanvas(window.innerWidth, window.innerHeight);
+}
