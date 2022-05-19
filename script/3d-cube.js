@@ -88,10 +88,22 @@ function windowResized() {
   resizeCanvas(window.innerWidth, window.innerHeight);
 }
 
+// Fullscreen mode
 window.addEventListener("dblclick", () => {
-  if (!document.fullscreenElement) {
-    canvas.requestFullscreen();
+  const fullscreenElement =
+    document.fullscreenElement || document.webkitFullscreenElement;
+
+  if (!fullscreenElement) {
+    if (canvas.requestFullscreen) {
+      canvas.requestFullscreen();
+    } else if (canvas.webkitRequestFullscreen) {
+      canvas.webkitRequestFullscreen();
+    }
   } else {
-    document.exitFullscreen();
+    if (document.exitFullscreen) {
+      document.exitFullscreen();
+    } else if (document.webkitExitFullscreen) {
+      document.webkitExitFullscreen();
+    }
   }
 });
